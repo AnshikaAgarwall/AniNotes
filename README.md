@@ -3,7 +3,8 @@ The system provides a clean and intuitive interface with secure user authenticat
 Additionally, AniNotes incorporates a dedicated admin-like control through its structured backend, allowing proper handling of data using a lightweight database system. The portal ensures that all notes are stored systematically, improving accessibility and reducing manual effort. By integrating efficient file handling and user-friendly design, AniNotes enhances productivity and supports a more organized approach to learning.
 This project leverages modern web technologies and optimized workflows to deliver a practical solution for students. It minimizes dependency on physical notes, ensures better data management, and provides a reliable digital space for academic resources.
  
-Objective  of the Project
+Objective  of the Project----------------
+
 The main objectives of the AniNotes Portal are:
 	To Digitalize Note Management
 Convert the traditional method of handling handwritten and scattered notes into a structured and centralized digital system.
